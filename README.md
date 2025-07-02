@@ -108,3 +108,19 @@ graph TD;
   D --> E[Evaluation]
   E --> F[Deployment]
   F --> G[Monitoring & Feedback]
+
+
+## 👥 Contributors
+
+**Group 61**  
+ 
+1.Joyce Njihia - nyamburanjihia@gmail.com
+2.Gospel Arinze - gospelarinzestuff@gmail.com
+3.Ling Mukiri - lingmukiri13@gmail.com
+4.Juma Calvin - jumacavin28@gmail.com
+5.EstherTrizar  - esthertrizar@gmail.com
+
+---
+
+Thank you for reviewing our submission. Kindly check the PDF report for full answers and model output details.
+
